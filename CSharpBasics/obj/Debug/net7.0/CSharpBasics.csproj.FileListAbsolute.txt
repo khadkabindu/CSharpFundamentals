@@ -1,0 +1,15 @@
+/Users/bindu/RiderProjects/CSharpBasics/CSharpBasics/bin/Debug/net7.0/CSharpBasics
+/Users/bindu/RiderProjects/CSharpBasics/CSharpBasics/bin/Debug/net7.0/CSharpBasics.deps.json
+/Users/bindu/RiderProjects/CSharpBasics/CSharpBasics/bin/Debug/net7.0/CSharpBasics.runtimeconfig.json
+/Users/bindu/RiderProjects/CSharpBasics/CSharpBasics/bin/Debug/net7.0/CSharpBasics.dll
+/Users/bindu/RiderProjects/CSharpBasics/CSharpBasics/bin/Debug/net7.0/CSharpBasics.pdb
+/Users/bindu/RiderProjects/CSharpBasics/CSharpBasics/obj/Debug/net7.0/CSharpBasics.csproj.AssemblyReference.cache
+/Users/bindu/RiderProjects/CSharpBasics/CSharpBasics/obj/Debug/net7.0/CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bindu/RiderProjects/CSharpBasics/CSharpBasics/obj/Debug/net7.0/CSharpBasics.AssemblyInfoInputs.cache
+/Users/bindu/RiderProjects/CSharpBasics/CSharpBasics/obj/Debug/net7.0/CSharpBasics.AssemblyInfo.cs
+/Users/bindu/RiderProjects/CSharpBasics/CSharpBasics/obj/Debug/net7.0/CSharpBasics.csproj.CoreCompileInputs.cache
+/Users/bindu/RiderProjects/CSharpBasics/CSharpBasics/obj/Debug/net7.0/CSharpBasics.dll
+/Users/bindu/RiderProjects/CSharpBasics/CSharpBasics/obj/Debug/net7.0/refint/CSharpBasics.dll
+/Users/bindu/RiderProjects/CSharpBasics/CSharpBasics/obj/Debug/net7.0/CSharpBasics.pdb
+/Users/bindu/RiderProjects/CSharpBasics/CSharpBasics/obj/Debug/net7.0/CSharpBasics.genruntimeconfig.cache
+/Users/bindu/RiderProjects/CSharpBasics/CSharpBasics/obj/Debug/net7.0/ref/CSharpBasics.dll
